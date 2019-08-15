@@ -1,0 +1,6 @@
+framework module Pods_DevExam {
+  umbrella header "Pods-DevExam-umbrella.h"
+
+  export *
+  module * { export * }
+}
